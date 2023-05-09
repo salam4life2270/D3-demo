@@ -1,0 +1,299 @@
+[
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2011,
+    "kyn": "Karlar",
+    "fjoldi": 1850,
+    "samtala": 0,
+    "alls_fjoldi": 3285,
+    "hlutfall": 0.5631659056
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2011,
+    "kyn": "Konur",
+    "fjoldi": 1435,
+    "samtala": 0,
+    "alls_fjoldi": 3285,
+    "hlutfall": 0.4368340944
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2011,
+    "kyn": "Alls",
+    "fjoldi": 3285,
+    "samtala": 1,
+    "alls_fjoldi": 3285,
+    "hlutfall": 1
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2012,
+    "kyn": "Karlar",
+    "fjoldi": 1797,
+    "samtala": 0,
+    "alls_fjoldi": 3292,
+    "hlutfall": 0.5458687728
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2012,
+    "kyn": "Konur",
+    "fjoldi": 1495,
+    "samtala": 0,
+    "alls_fjoldi": 3292,
+    "hlutfall": 0.4541312272
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2012,
+    "kyn": "Alls",
+    "fjoldi": 3292,
+    "samtala": 1,
+    "alls_fjoldi": 3292,
+    "hlutfall": 1
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2013,
+    "kyn": "Karlar",
+    "fjoldi": 1916,
+    "samtala": 0,
+    "alls_fjoldi": 3350,
+    "hlutfall": 0.5719402985
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2013,
+    "kyn": "Konur",
+    "fjoldi": 1434,
+    "samtala": 0,
+    "alls_fjoldi": 3350,
+    "hlutfall": 0.4280597015
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2013,
+    "kyn": "Alls",
+    "fjoldi": 3350,
+    "samtala": 1,
+    "alls_fjoldi": 3350,
+    "hlutfall": 1
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2014,
+    "kyn": "Karlar",
+    "fjoldi": 1840,
+    "samtala": 0,
+    "alls_fjoldi": 3269,
+    "hlutfall": 0.5628632609
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2014,
+    "kyn": "Konur",
+    "fjoldi": 1429,
+    "samtala": 0,
+    "alls_fjoldi": 3269,
+    "hlutfall": 0.4371367391
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2014,
+    "kyn": "Alls",
+    "fjoldi": 3269,
+    "samtala": 1,
+    "alls_fjoldi": 3269,
+    "hlutfall": 1
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2015,
+    "kyn": "Karlar",
+    "fjoldi": 1647,
+    "samtala": 0,
+    "alls_fjoldi": 2898,
+    "hlutfall": 0.5683229814
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2015,
+    "kyn": "Konur",
+    "fjoldi": 1251,
+    "samtala": 0,
+    "alls_fjoldi": 2898,
+    "hlutfall": 0.4316770186
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2015,
+    "kyn": "Alls",
+    "fjoldi": 2898,
+    "samtala": 1,
+    "alls_fjoldi": 2898,
+    "hlutfall": 1
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2016,
+    "kyn": "Karlar",
+    "fjoldi": 1295,
+    "samtala": 0,
+    "alls_fjoldi": 2259,
+    "hlutfall": 0.5732625055
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2016,
+    "kyn": "Konur",
+    "fjoldi": 964,
+    "samtala": 0,
+    "alls_fjoldi": 2259,
+    "hlutfall": 0.4267374945
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2016,
+    "kyn": "Alls",
+    "fjoldi": 2259,
+    "samtala": 1,
+    "alls_fjoldi": 2259,
+    "hlutfall": 1
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2017,
+    "kyn": "Karlar",
+    "fjoldi": 1151,
+    "samtala": 0,
+    "alls_fjoldi": 1958,
+    "hlutfall": 0.5878447395
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2017,
+    "kyn": "Konur",
+    "fjoldi": 807,
+    "samtala": 0,
+    "alls_fjoldi": 1958,
+    "hlutfall": 0.4121552605
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2017,
+    "kyn": "Alls",
+    "fjoldi": 1958,
+    "samtala": 1,
+    "alls_fjoldi": 1958,
+    "hlutfall": 1
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2018,
+    "kyn": "Karlar",
+    "fjoldi": 1154,
+    "samtala": 0,
+    "alls_fjoldi": 2011,
+    "hlutfall": 0.5738438588
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2018,
+    "kyn": "Konur",
+    "fjoldi": 857,
+    "samtala": 0,
+    "alls_fjoldi": 2011,
+    "hlutfall": 0.4261561412
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2018,
+    "kyn": "Alls",
+    "fjoldi": 2011,
+    "samtala": 1,
+    "alls_fjoldi": 2011,
+    "hlutfall": 1
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2019,
+    "kyn": "Karlar",
+    "fjoldi": 1291,
+    "samtala": 0,
+    "alls_fjoldi": 2195,
+    "hlutfall": 0.5881548975
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2019,
+    "kyn": "Konur",
+    "fjoldi": 904,
+    "samtala": 0,
+    "alls_fjoldi": 2195,
+    "hlutfall": 0.4118451025
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2019,
+    "kyn": "Alls",
+    "fjoldi": 2195,
+    "samtala": 1,
+    "alls_fjoldi": 2195,
+    "hlutfall": 1
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2020,
+    "kyn": "Karlar",
+    "fjoldi": 1529,
+    "samtala": 0,
+    "alls_fjoldi": 2539,
+    "hlutfall": 0.6022055928
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2020,
+    "kyn": "Konur",
+    "fjoldi": 1010,
+    "samtala": 0,
+    "alls_fjoldi": 2539,
+    "hlutfall": 0.3977944072
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2020,
+    "kyn": "Alls",
+    "fjoldi": 2539,
+    "samtala": 1,
+    "alls_fjoldi": 2539,
+    "hlutfall": 1
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2021,
+    "kyn": "Karlar",
+    "fjoldi": 1535,
+    "samtala": 0,
+    "alls_fjoldi": 2433,
+    "hlutfall": 0.6309083436
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2021,
+    "kyn": "Konur",
+    "fjoldi": 898,
+    "samtala": 0,
+    "alls_fjoldi": 2433,
+    "hlutfall": 0.3690916564
+    },
+    {
+    "tegund": "Framfærslustyrkur",
+    "artal": 2021,
+    "kyn": "Alls",
+    "fjoldi": 2433,
+    "samtala": 1,
+    "alls_fjoldi": 2433,
+    "hlutfall": 1
+    }
+    ]

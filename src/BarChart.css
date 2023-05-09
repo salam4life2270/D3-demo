@@ -1,0 +1,51 @@
+.barchart {
+  margin: 0;
+  overflow: hidden;
+  text-align: center;
+}
+.text1 {
+  font-size: 24px;
+  line-height: 32px;
+}
+.text2 {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.vertical-8 {
+  font-size: 12px;
+  line-height: 16px;
+}
+.vertical-7 {
+  font-size: 12px;
+  line-height: 16px;
+}
+.vertical-6 {
+  font-size: 12px;
+  line-height: 16px;
+}
+.vertical-5 {
+  font-size: 12px;
+  line-height: 16px;
+}
+.vertical-4 {
+  font-size: 12px;
+  line-height: 16px;
+}
+.vertical-3 {
+  font-size: 12px;
+  line-height: 16px;
+}
+.vertical-2 {
+  font-size: 12px;
+  line-height: 16px;
+}
+.vertical-1 {
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.horizontal-1 {
+  font-size: 12px;
+  line-height: 16px;
+}
